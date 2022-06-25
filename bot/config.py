@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5349174726:AAEuq_GXQ3vPf7R7JTJVZ3259QXqAZnYuPM"
     APP_ID = "19117882"
     API_HASH = "6dee7e9598c0e5ff11cf7b7ccb60f58d"
-    DATABASE_URL = ""
+    DATABASE_URL = "mongodb+srv://<VCPlayerBot>:<VCPlayerBot>@cluster0.giisykx.mongodb.net/?retryWrites=true&w=majority"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
