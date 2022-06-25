@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "5349174726:AAEuq_GXQ3vPf7R7JTJVZ3259QXqAZnYuPM"
+    BOT_TOKEN = "5401994016:AAEO6cIyUSysHYdoYX-1SLksfu9ZYarYTP4"
     APP_ID = "19117882"
     API_HASH = "6dee7e9598c0e5ff11cf7b7ccb60f58d"
     DATABASE_URL = "mongodb+srv://<VCPlayerBot>:<VCPlayerBot>@cluster0.giisykx.mongodb.net/?retryWrites=true&w=majority"
